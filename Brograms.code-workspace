@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"algorithm": "cpp",
+			"vector": "cpp",
+			"type_traits": "cpp",
+			"cmath": "cpp",
+			"array": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"iostream": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"map": "cpp"
+		},
+		"python.dataScience.jupyterServerURI": "local"
+	}
+}
